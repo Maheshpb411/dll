@@ -1,0 +1,13 @@
+brain-small : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
+brain large :  https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no
+
+Animal : https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+
+Flower : https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+
+cbow : https://www.kaggle.com/datasets/mohamedbadr8817/movie-review-dataset
+
+x-ray : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+https://github.com/Maheshpb411/dl/blob/main/5.ipynb
